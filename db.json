@@ -1,11 +1,49 @@
 {
-  "posts": [
+  "nbateams": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Atlanta Hawks",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Boston Celtics",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1200px-Celtics_de_Boston_logo.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "Brooklyn Nets",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1200px-Brooklyn_Nets_newlogo.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Charlotte Hornets",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "Chicago Bulls",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+    },
+    {
+      "id": 6,
+      "name": "Los Angeles Lakers",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png"
+    },
+    {
+      "id": 7,
+      "name": "Dallas Mavericks",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png"
+    },
+    {
+      "id": 8,
+      "name": "Denver Nuggets",
+      "logo": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/den.png"
+    },
+    {
+      "id": 9,
+      "name": "Golden State Warriors",
+      "logo": "https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/gsw.png"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
